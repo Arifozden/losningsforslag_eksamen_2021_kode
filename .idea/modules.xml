@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/losningsforslag_eksamen_2021_kode.iml" filepath="$PROJECT_DIR$/.idea/losningsforslag_eksamen_2021_kode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/losningsforslag_kode/webprog.iml" filepath="$PROJECT_DIR$/losningsforslag_kode/webprog.iml" />
+    </modules>
+  </component>
+</project>
